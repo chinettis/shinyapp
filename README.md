@@ -2,16 +2,14 @@
 
 # Developing Data Products Course - Course Project: Shiny Application and Reproducible Pitch
 
-There are the Coursera’s MOOC Developing Data Products Course from Johns Hopkins University. For more information about the several MOOCs comprised in this Specialization.
+Body Mass Index Calculator
 
-GitHub repo: https://github.com/b33lie/shiny_app_mtcars
+This is just a simple example of a Shiny app devised for the Developing
+Data Products course on Coursera.
 
-Demo: https://b33lie.shinyapps.io/shiny_app_mtcars/
-
-Slide: http://rpubs.com/b33lie/148785
-
-# Description
-
-An Shiny Application with providing a simple tools to select the most fit car for your trip.
-
-The data used in the app comes from the Motor Trend Car Road Tests (mtcars) dataset. The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973-74 models).
+The BMI is used in a wide variety of contexts as a simple method to
+assess how much an individual's body weight departs from what is normal
+or desirable for a person of his or her height. There is however often
+vigorous debate, particularly regarding at which value of the BMI scale
+the threshold for overweight and obese should be set, but also about a
+range of perceived limitations and problems with the BMI. (Wikipedia)
